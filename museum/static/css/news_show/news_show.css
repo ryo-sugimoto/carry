@@ -7973,12 +7973,12 @@ p.wp-block-subhead {
 }
 
 .wpcf7 form.spam .wpcf7-response-output {
-    border-color: #f56e28;
+    border-color: #00a0d2;
 }
 
 .wpcf7 form.invalid .wpcf7-response-output,
 .wpcf7 form.unaccepted .wpcf7-response-output {
-    border-color: #ffb900;
+    border-color: #00a0d2;
 }
 
 .wpcf7-form-control-wrap {
